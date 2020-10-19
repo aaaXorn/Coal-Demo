@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: a43f0cd0e455a2542b1136c01834a431
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6266309871912455704
+    second: acido_-_bunda_da_aranha_boss_0
+  - first:
+      213: -688542866584527754
+    second: acido_-_bunda_da_aranha_boss_1
+  - first:
+      213: -4685541933242032317
+    second: acido_-_bunda_da_aranha_boss_2
+  - first:
+      213: 7625670612014137921
+    second: acido_-_bunda_da_aranha_boss_3
+  - first:
+      213: 916285123184326833
+    second: acido_-_bunda_da_aranha_boss_4
+  - first:
+      213: -3444740954008296243
+    second: acido_-_bunda_da_aranha_boss_5
+  - first:
+      213: -4177412403857776108
+    second: acido_-_bunda_da_aranha_boss_6
+  - first:
+      213: -2887157582318959011
+    second: acido_-_bunda_da_aranha_boss_7
+  - first:
+      213: -1411054547802077323
+    second: acido_-_bunda_da_aranha_boss_8
+  - first:
+      213: 7269852018544261311
+    second: acido_-_bunda_da_aranha_boss_9
+  - first:
+      213: 3594941170664733114
+    second: acido_-_bunda_da_aranha_boss_10
+  - first:
+      213: -4586979939472947351
+    second: acido_-_bunda_da_aranha_boss_11
+  - first:
+      213: 1615921291580400711
+    second: acido_-_bunda_da_aranha_boss_12
+  - first:
+      213: -3873664075844175529
+    second: acido_-_bunda_da_aranha_boss_13
+  - first:
+      213: 7230269098593703946
+    second: acido_-_bunda_da_aranha_boss_14
+  - first:
+      213: 5043406680529158131
+    second: acido_-_bunda_da_aranha_boss_15
+  - first:
+      213: -7953621812104370104
+    second: acido_-_bunda_da_aranha_boss_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: acido_-_bunda_da_aranha_boss_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 44
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e8ddfc0a766f650800000000000000
+      internalID: 6266309871912455704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_-_bunda_da_aranha_boss_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 44
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c999039edc176f0800000000000000
+      internalID: -688542866584527754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_-_bunda_da_aranha_boss_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 44
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f59e0df6c99feb0800000000000000
+      internalID: -4685541933242032317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_-_bunda_da_aranha_boss_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 44
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1420d33e403d3d960800000000000000
+      internalID: 7625670612014137921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_-_bunda_da_aranha_boss_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b87060077c47bc00800000000000000
+      internalID: 916285123184326833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_-_bunda_da_aranha_boss_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc468157a52d130d0800000000000000
+      internalID: -3444740954008296243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_-_bunda_da_aranha_boss_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 32
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4122fb33d89d606c0800000000000000
+      internalID: -4177412403857776108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_-_bunda_da_aranha_boss_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 24
+        width: 13
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d568d47c971cee7d0800000000000000
+      internalID: -2887157582318959011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_-_bunda_da_aranha_boss_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 32
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577ce876d5dea6ce0800000000000000
+      internalID: -1411054547802077323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_-_bunda_da_aranha_boss_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 32
+        width: 11
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8bcfeb4e3b3e460800000000000000
+      internalID: 7269852018544261311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_-_bunda_da_aranha_boss_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 32
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9f5e9a2fbc3e130800000000000000
+      internalID: 3594941170664733114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_-_bunda_da_aranha_boss_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 24
+        width: 13
+        height: 3
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9674fd34c06c750c0800000000000000
+      internalID: -4586979939472947351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_-_bunda_da_aranha_boss_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 24
+        width: 11
+        height: 2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744e3a96ad7ec6610800000000000000
+      internalID: 1615921291580400711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_-_bunda_da_aranha_boss_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 19
+        width: 7
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759bd1ceb0bfd3ac0800000000000000
+      internalID: -3873664075844175529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_-_bunda_da_aranha_boss_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 19
+        width: 5
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0859240073175460800000000000000
+      internalID: 7230269098593703946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_-_bunda_da_aranha_boss_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 19
+        width: 3
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffb5c2a7a7cdf540800000000000000
+      internalID: 5043406680529158131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_-_bunda_da_aranha_boss_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 19
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84868bb1a1f0f9190800000000000000
+      internalID: -7953621812104370104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

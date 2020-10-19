@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 7abc2252323d9e2408b45e7da459aedd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5313785417572142768
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_0
+  - first:
+      213: 6273259006514564777
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_1
+  - first:
+      213: -2582521129248897040
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_2
+  - first:
+      213: 1635353792342617145
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_3
+  - first:
+      213: 3738560224087570732
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_4
+  - first:
+      213: 1640929002119113512
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_5
+  - first:
+      213: 6239979338370465669
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_6
+  - first:
+      213: 5968002414491695758
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_0
+  - first:
+      213: -3369502989224075463
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_1
+  - first:
+      213: 3515400738573681096
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_2
+  - first:
+      213: -4218423106433445737
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_3
+  - first:
+      213: 7325476877863589626
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_4
+  - first:
+      213: 3771697333455110668
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_5
+  - first:
+      213: 442904269153850438
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_6
+  - first:
+      213: 3974338271815092420
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_7
+  - first:
+      213: 5871263292868325553
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_8
+  - first:
+      213: -1962561245739743203
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_9
+  - first:
+      213: 9187686459337108690
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_10
+  - first:
+      213: -4367206321126709075
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_11
+  - first:
+      213: 1103222884256346556
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_12
+  - first:
+      213: -5223037830484586088
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_13
+  - first:
+      213: -6878611100213606044
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_14
+  - first:
+      213: -8168840265064046219
+    second: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 46
+        width: 3
+        height: 3
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a737e739a92d250800000000000000
+      internalID: 5968002414491695758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 46
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f9ea932ee1d31d0800000000000000
+      internalID: -3369502989224075463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 46
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c184d9a85639c030800000000000000
+      internalID: 3515400738573681096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 46
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7901cbce8862575c0800000000000000
+      internalID: -4218423106433445737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 39
+        width: 3
+        height: 2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6956b886259a560800000000000000
+      internalID: 7325476877863589626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 5
+        height: 3
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0241e0ddb2c75430800000000000000
+      internalID: 3771697333455110668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 39
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6445b601613852600800000000000000
+      internalID: 442904269153850438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 39
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c847cce99fa72730800000000000000
+      internalID: 3974338271815092420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 39
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0f43a8bdaea7150800000000000000
+      internalID: 5871263292868325553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 39
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d180cb1f1f493c4e0800000000000000
+      internalID: -1962561245739743203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 29
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc64740828318f70800000000000000
+      internalID: 9187686459337108690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 29
+        width: 2
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8e6684df09463c0800000000000000
+      internalID: -4367206321126709075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 29
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb17e2c3e5f6f4f00800000000000000
+      internalID: 1103222884256346556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 29
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8911a8914ca0487b0800000000000000
+      internalID: -5223037830484586088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 29
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46985b716a34a80a0800000000000000
+      internalID: -6878611100213606044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilares_de_pedra_-_resultados_do_soco_da_aranha_boss_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 29
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57123fd2f0372ae80800000000000000
+      internalID: -8168840265064046219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

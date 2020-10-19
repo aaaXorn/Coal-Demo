@@ -1,0 +1,1232 @@
+fileFormatVersion: 2
+guid: 9ecd84a7013a306429a6d9962074103e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2425447185238242137
+    second: plataforma2com paredev3_0
+  - first:
+      213: 1051009034382768965
+    second: plataforma2com paredev3_1
+  - first:
+      213: 4544516917815461006
+    second: plataforma2com paredev3_2
+  - first:
+      213: -3805234290994434397
+    second: plataforma2com paredev3_3
+  - first:
+      213: -8604191124699373860
+    second: plataforma2com paredev3_4
+  - first:
+      213: -4331965873651327810
+    second: plataforma2com paredev3_5
+  - first:
+      213: 4776934179543228976
+    second: plataforma2com paredev3_6
+  - first:
+      213: 5356338801052549114
+    second: plataforma2com paredev3_7
+  - first:
+      213: 1110396187028021028
+    second: plataforma2com paredev3_8
+  - first:
+      213: 8051218476147199413
+    second: plataforma2com paredev3_9
+  - first:
+      213: -7283860780968195242
+    second: plataforma2com paredev3_10
+  - first:
+      213: -5267024729785983469
+    second: plataforma2com paredev3_11
+  - first:
+      213: 2665053556269359320
+    second: plataforma2com paredev3_12
+  - first:
+      213: -8302393258111043951
+    second: plataforma2com paredev3_13
+  - first:
+      213: 3218125553794049298
+    second: plataforma2com paredev3_14
+  - first:
+      213: 6219213818507149810
+    second: plataforma2com paredev3_15
+  - first:
+      213: -4432086792225123119
+    second: plataforma2com paredev3_16
+  - first:
+      213: -5800796435330081309
+    second: plataforma2com paredev3_17
+  - first:
+      213: -5472383732142907665
+    second: plataforma2com paredev3_18
+  - first:
+      213: -8191969754478766012
+    second: plataforma2com paredev3_19
+  - first:
+      213: 8974000606120370637
+    second: plataforma2com paredev3_20
+  - first:
+      213: 6646200993990096119
+    second: plataforma2com paredev3_21
+  - first:
+      213: -3908544052985104342
+    second: plataforma2com paredev3_22
+  - first:
+      213: 3912648888113881251
+    second: plataforma2com paredev3_23
+  - first:
+      213: 3075315388272453694
+    second: plataforma2com paredev3_24
+  - first:
+      213: 177864380351479658
+    second: plataforma2com paredev3_25
+  - first:
+      213: -8003199249024882765
+    second: plataforma2com paredev3_26
+  - first:
+      213: -1101996617473875885
+    second: plataforma2com paredev3_27
+  - first:
+      213: -3743623248057573106
+    second: plataforma2com paredev3_28
+  - first:
+      213: 771513368091629583
+    second: plataforma2com paredev3_29
+  - first:
+      213: 2119936916863404271
+    second: plataforma2com paredev3_30
+  - first:
+      213: -7882248275669291759
+    second: plataforma2com paredev3_31
+  - first:
+      213: 6656475036598038407
+    second: plataforma2com paredev3_32
+  - first:
+      213: 917257889241045518
+    second: plataforma2com paredev3_33
+  - first:
+      213: 1242464281839395795
+    second: plataforma2com paredev3_34
+  - first:
+      213: -3968363550472740963
+    second: plataforma2com paredev3_35
+  - first:
+      213: -4493634806136794103
+    second: plataforma2com paredev3_36
+  - first:
+      213: 305939470375814274
+    second: plataforma2com paredev3_37
+  - first:
+      213: 1986540438536453235
+    second: plataforma2com paredev3_38
+  - first:
+      213: 8104377505017527242
+    second: plataforma2com paredev3_39
+  - first:
+      213: 8901118431086105838
+    second: plataforma2com paredev3_40
+  - first:
+      213: 5076450675449948325
+    second: plataforma2com paredev3_41
+  - first:
+      213: 4952096832749236295
+    second: plataforma2com paredev3_42
+  - first:
+      213: -7845185115269554980
+    second: plataforma2com paredev3_43
+  - first:
+      213: -3558908939409658308
+    second: plataforma2com paredev3_44
+  - first:
+      213: -6463284194682373652
+    second: plataforma2com paredev3_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 61
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plataforma2com paredev3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac4766b2a4175ed0800000000000000
+      internalID: -2425447185238242137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b7c16f52fe59e00800000000000000
+      internalID: 1051009034382768965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84c4221f0e511f30800000000000000
+      internalID: 4544516917815461006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae2426c297113bc0800000000000000
+      internalID: -3805234290994434397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde99b052c5c79880800000000000000
+      internalID: -8604191124699373860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_5
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcd5e95df3c1e3c0800000000000000
+      internalID: -4331965873651327810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_6
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032a817b3541b4240800000000000000
+      internalID: 4776934179543228976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_7
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afff06da2c9855a40800000000000000
+      internalID: 5356338801052549114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_8
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fd0cfe27be86f00800000000000000
+      internalID: 1110396187028021028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_9
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdc0dffb8cabbf60800000000000000
+      internalID: 8051218476147199413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_10
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bcdf416378aea90800000000000000
+      internalID: -7283860780968195242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_11
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e98e50ae4c7e6b0800000000000000
+      internalID: -5267024729785983469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_12
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0a3d0e61c2cf420800000000000000
+      internalID: 2665053556269359320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_13
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19671b8d159f7cc80800000000000000
+      internalID: -8302393258111043951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_14
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215608c042419ac20800000000000000
+      internalID: 3218125553794049298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_15
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1c15264061f4650800000000000000
+      internalID: 6219213818507149810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d498bf6b801e72c0800000000000000
+      internalID: -4432086792225123119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 366
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed5cc1406e6f7fa0800000000000000
+      internalID: -5800796435330081309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 366
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feedef25dff2e04b0800000000000000
+      internalID: -5472383732142907665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_19
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 366
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4489c8549e6405e80800000000000000
+      internalID: -8191969754478766012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_20
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 366
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1e1f5410e0a8c70800000000000000
+      internalID: 8974000606120370637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_21
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 366
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4b0a8479c0c3c50800000000000000
+      internalID: 6646200993990096119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a287bd464ef02c9c0800000000000000
+      internalID: -3908544052985104342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_23
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 244
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0ead20f658c4630800000000000000
+      internalID: 3912648888113881251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_24
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 244
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38a54a4d07bdaa20800000000000000
+      internalID: 3075315388272453694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_25
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 244
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f7b0926b6e77200800000000000000
+      internalID: 177864380351479658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_26
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 244
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7e23f8faceee090800000000000000
+      internalID: -8003199249024882765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_27
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 244
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350a9cf3aebe4b0f0800000000000000
+      internalID: -1101996617473875885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_28
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 244
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0162ae8d7afb0cc0800000000000000
+      internalID: -3743623248057573106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_29
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 244
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0811941257f4ba00800000000000000
+      internalID: 771513368091629583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe841ebd4678b6d10800000000000000
+      internalID: 2119936916863404271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_31
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 122
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11deb4984f0ac9290800000000000000
+      internalID: -7882248275669291759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_32
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 122
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f6eac37cc806c50800000000000000
+      internalID: 6656475036598038407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_33
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 122
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a13afb031cabc00800000000000000
+      internalID: 917257889241045518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_34
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 122
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3e5257eae1e3110800000000000000
+      internalID: 1242464281839395795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_35
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 122
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fd67a406a8de8c0800000000000000
+      internalID: -3968363550472740963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_36
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 122
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90492edb3f663a1c0800000000000000
+      internalID: -4493634806136794103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_37
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 122
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284858ec35aee3400800000000000000
+      internalID: 305939470375814274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cf9e2f00c919b10800000000000000
+      internalID: 1986540438536453235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_39
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb7c38e668887070800000000000000
+      internalID: 8104377505017527242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_40
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4d19c8d00278b70800000000000000
+      internalID: 8901118431086105838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_41
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a86cfd3efc237640800000000000000
+      internalID: 5076450675449948325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_42
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740fa5105d169b440800000000000000
+      internalID: 4952096832749236295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_43
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc1d2704bd402390800000000000000
+      internalID: -7845185115269554980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_44
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e668eec273c9ec0800000000000000
+      internalID: -3558908939409658308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma2com paredev3_45
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce97f85d44dcd46a0800000000000000
+      internalID: -6463284194682373652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

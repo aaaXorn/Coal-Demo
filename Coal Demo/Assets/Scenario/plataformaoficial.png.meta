@@ -1,0 +1,1827 @@
+fileFormatVersion: 2
+guid: 9a6b8f5e99f72654d8ada218accc4261
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3477013988789537669
+    second: plataformaoficial_0
+  - first:
+      213: 4333142308782488466
+    second: plataformaoficial_1
+  - first:
+      213: 7444683141258611987
+    second: plataformaoficial_2
+  - first:
+      213: -926185577950050816
+    second: plataformaoficial_3
+  - first:
+      213: -999448624747526299
+    second: plataformaoficial_4
+  - first:
+      213: -1944483929320250272
+    second: plataformaoficial_5
+  - first:
+      213: 399626487188005281
+    second: plataformaoficial_6
+  - first:
+      213: 5585544280921537823
+    second: plataformaoficial_7
+  - first:
+      213: 8741546240286928812
+    second: plataformaoficial_8
+  - first:
+      213: 8271761546468626084
+    second: plataformaoficial_9
+  - first:
+      213: 4992655701184979510
+    second: plataformaoficial_10
+  - first:
+      213: -4871049502011942259
+    second: plataformaoficial_11
+  - first:
+      213: 2838636504129231165
+    second: plataformaoficial_12
+  - first:
+      213: 2325797910817192206
+    second: plataformaoficial_13
+  - first:
+      213: -1243250433843935779
+    second: plataformaoficial_14
+  - first:
+      213: -1066225347586096213
+    second: plataformaoficial_15
+  - first:
+      213: -6890313507420532890
+    second: plataformaoficial_16
+  - first:
+      213: 5435612274206354852
+    second: plataformaoficial_17
+  - first:
+      213: -4182111167248098677
+    second: plataformaoficial_18
+  - first:
+      213: -1871290003112994923
+    second: plataformaoficial_19
+  - first:
+      213: -7748153964056774956
+    second: plataformaoficial_20
+  - first:
+      213: -2965784340340149229
+    second: plataformaoficial_21
+  - first:
+      213: -5989213949292044417
+    second: plataformaoficial_22
+  - first:
+      213: 3598656462675217880
+    second: plataformaoficial_23
+  - first:
+      213: -1274126456007269948
+    second: plataformaoficial_24
+  - first:
+      213: -2258243756335147192
+    second: plataformaoficial_25
+  - first:
+      213: -8483701277905833943
+    second: plataformaoficial_26
+  - first:
+      213: 5051340234216668348
+    second: plataformaoficial_27
+  - first:
+      213: -5036953753878298387
+    second: plataformaoficial_28
+  - first:
+      213: 4646940270378763428
+    second: plataformaoficial_29
+  - first:
+      213: -347074891498417821
+    second: plataformaoficial_30
+  - first:
+      213: -3937816442444117765
+    second: plataformaoficial_31
+  - first:
+      213: -6040559579817874653
+    second: plataformaoficial_32
+  - first:
+      213: -5179821010205186076
+    second: plataformaoficial_33
+  - first:
+      213: -1715680494394816198
+    second: plataformaoficial_34
+  - first:
+      213: -6345508139526655449
+    second: plataformaoficial_35
+  - first:
+      213: 3459190164367883111
+    second: plataformaoficial_36
+  - first:
+      213: 3555542069525479352
+    second: plataformaoficial_37
+  - first:
+      213: 2560268424650293525
+    second: plataformaoficial_38
+  - first:
+      213: 3076333022151649768
+    second: plataformaoficial_39
+  - first:
+      213: -2532407433774280264
+    second: plataformaoficial_40
+  - first:
+      213: 1530044166945611545
+    second: plataformaoficial_41
+  - first:
+      213: 6651166283324615787
+    second: plataformaoficial_42
+  - first:
+      213: -8059890577665095382
+    second: plataformaoficial_43
+  - first:
+      213: -3116146726424219716
+    second: plataformaoficial_44
+  - first:
+      213: 2047786811048917959
+    second: plataformaoficial_45
+  - first:
+      213: -1699778050061643393
+    second: plataformaoficial_46
+  - first:
+      213: 1879374755064186970
+    second: plataformaoficial_47
+  - first:
+      213: 8237051474491513865
+    second: plataformaoficial_48
+  - first:
+      213: -9213280707750188876
+    second: plataformaoficial_49
+  - first:
+      213: 2064377197735124844
+    second: plataformaoficial_50
+  - first:
+      213: -594116068686928
+    second: plataformaoficial_51
+  - first:
+      213: 8093839383896265931
+    second: plataformaoficial_52
+  - first:
+      213: -2158256610191682034
+    second: plataformaoficial_53
+  - first:
+      213: -8447729039826996148
+    second: plataformaoficial_54
+  - first:
+      213: -9085018247264498585
+    second: plataformaoficial_55
+  - first:
+      213: 8519040325543005808
+    second: plataformaoficial_56
+  - first:
+      213: -8082550489969490846
+    second: plataformaoficial_57
+  - first:
+      213: -553930892541454741
+    second: plataformaoficial_58
+  - first:
+      213: 3765760387499166721
+    second: plataformaoficial_59
+  - first:
+      213: -4970708891146902066
+    second: plataformaoficial_60
+  - first:
+      213: -1718279247107327723
+    second: plataformaoficial_61
+  - first:
+      213: 6456159523167516882
+    second: plataformaoficial_62
+  - first:
+      213: -7865550840104946384
+    second: plataformaoficial_63
+  - first:
+      213: -8706017687765432251
+    second: plataformaoficial_64
+  - first:
+      213: 5649030742059324525
+    second: plataformaoficial_65
+  - first:
+      213: 8620590464591182083
+    second: plataformaoficial_66
+  - first:
+      213: -3495980750084462710
+    second: plataformaoficial_67
+  - first:
+      213: 2008350710105531951
+    second: plataformaoficial_68
+  - first:
+      213: 6778045572995200154
+    second: plataformaoficial_69
+  - first:
+      213: 3483897066952619273
+    second: plataformaoficial_70
+  - first:
+      213: 5601231483058279806
+    second: plataformaoficial_71
+  - first:
+      213: 8842447153223432417
+    second: plataformaoficial_72
+  - first:
+      213: 7993278182586128119
+    second: plataformaoficial_73
+  - first:
+      213: -6419141784800676394
+    second: plataformaoficial_74
+  - first:
+      213: 5300664097118818
+    second: plataformaoficial_75
+  - first:
+      213: 522495827268341870
+    second: plataformaoficial_76
+  - first:
+      213: -3716854232068472590
+    second: plataformaoficial_77
+  - first:
+      213: 8482029492535086102
+    second: plataformaoficial_78
+  - first:
+      213: 2714832438398495338
+    second: plataformaoficial_79
+  - first:
+      213: 5414547442701580730
+    second: plataformaoficial_80
+  - first:
+      213: -2039938408920991570
+    second: plataformaoficial_81
+  - first:
+      213: 5447857412640501765
+    second: plataformaoficial_82
+  - first:
+      213: -6727586567231711452
+    second: plataformaoficial_83
+  - first:
+      213: -1083369095027560642
+    second: plataformaoficial_84
+  - first:
+      213: 5943588662698223083
+    second: plataformaoficial_85
+  - first:
+      213: 2354248783200194719
+    second: plataformaoficial_86
+  - first:
+      213: -5084323557167053387
+    second: plataformaoficial_87
+  - first:
+      213: -1684008615259050166
+    second: plataformaoficial_88
+  - first:
+      213: -7409672916305707827
+    second: plataformaoficial_89
+  - first:
+      213: -638497631146957415
+    second: plataformaoficial_90
+  - first:
+      213: 603396333579230443
+    second: plataformaoficial_91
+  - first:
+      213: -7672487526529782906
+    second: plataformaoficial_92
+  - first:
+      213: 200206869586168061
+    second: plataformaoficial_93
+  - first:
+      213: -7061940155772697910
+    second: plataformaoficial_94
+  - first:
+      213: -5428559873923926582
+    second: plataformaoficial_95
+  - first:
+      213: 3409497680282033522
+    second: plataformaoficial_96
+  - first:
+      213: 4572722485003147505
+    second: plataformaoficial_97
+  - first:
+      213: -9050822213668670217
+    second: plataformaoficial_98
+  - first:
+      213: 1462528993528382585
+    second: plataformaoficial_99
+  - first:
+      213: 1098526516388964694
+    second: plataformaoficial_100
+  - first:
+      213: 6963655310609202695
+    second: plataformaoficial_101
+  - first:
+      213: -5015169044514014853
+    second: plataformaoficial_102
+  - first:
+      213: -4484492961496477288
+    second: plataformaoficial_103
+  - first:
+      213: -6987080858748507911
+    second: plataformaoficial_104
+  - first:
+      213: 7076592722884436941
+    second: plataformaoficial_105
+  - first:
+      213: 7452863451311986384
+    second: plataformaoficial_106
+  - first:
+      213: 730409118747282452
+    second: plataformaoficial_107
+  - first:
+      213: -2048682647916181612
+    second: plataformaoficial_108
+  - first:
+      213: 5328399383954721721
+    second: plataformaoficial_109
+  - first:
+      213: -5105225422716404130
+    second: plataformaoficial_110
+  - first:
+      213: 8706326896395730068
+    second: plataformaoficial_111
+  - first:
+      213: -5106958807375561795
+    second: plataformaoficial_112
+  - first:
+      213: 7008278297531794757
+    second: plataformaoficial_113
+  - first:
+      213: -931426846249611130
+    second: plataformaoficial_114
+  - first:
+      213: 4712526838986574221
+    second: plataformaoficial_115
+  - first:
+      213: 1039928689867133583
+    second: plataformaoficial_116
+  - first:
+      213: 1707006522063208481
+    second: plataformaoficial_117
+  - first:
+      213: 3952636624092365838
+    second: plataformaoficial_118
+  - first:
+      213: -2226607772176656766
+    second: plataformaoficial_119
+  - first:
+      213: -2983184460189661785
+    second: plataformaoficial_120
+  - first:
+      213: 3924342595058246810
+    second: plataformaoficial_121
+  - first:
+      213: 833414136313810708
+    second: plataformaoficial_122
+  - first:
+      213: -4787397531015856961
+    second: plataformaoficial_123
+  - first:
+      213: 8594321101687181359
+    second: plataformaoficial_124
+  - first:
+      213: 3288801160029633273
+    second: plataformaoficial_125
+  - first:
+      213: -6506094693663579027
+    second: plataformaoficial_126
+  - first:
+      213: 3060716449622704674
+    second: plataformaoficial_127
+  - first:
+      213: 4835618640898470470
+    second: plataformaoficial_128
+  - first:
+      213: -6061461685141680582
+    second: plataformaoficial_129
+  - first:
+      213: -1203674943990664492
+    second: plataformaoficial_130
+  - first:
+      213: -1652656228563204789
+    second: plataformaoficial_131
+  - first:
+      213: -1903472932689289968
+    second: plataformaoficial_132
+  - first:
+      213: 7412613803180661162
+    second: plataformaoficial_133
+  - first:
+      213: 4103222117692586176
+    second: plataformaoficial_134
+  - first:
+      213: 1504451374767039920
+    second: plataformaoficial_135
+  - first:
+      213: 1989942468670124361
+    second: plataformaoficial_136
+  - first:
+      213: 9178659293819487734
+    second: plataformaoficial_137
+  - first:
+      213: 9126745951661614243
+    second: plataformaoficial_138
+  - first:
+      213: 3395225316717538506
+    second: plataformaoficial_139
+  - first:
+      213: -1916486688163161797
+    second: plataformaoficial_140
+  - first:
+      213: 2976603215872350240
+    second: plataformaoficial_141
+  - first:
+      213: -4122996583186042074
+    second: plataformaoficial_142
+  - first:
+      213: -5243918560889067734
+    second: plataformaoficial_143
+  - first:
+      213: 7595669370783040591
+    second: plataformaoficial_144
+  - first:
+      213: 3886718835791964708
+    second: plataformaoficial_145
+  - first:
+      213: 8098941165123992913
+    second: plataformaoficial_146
+  - first:
+      213: -9030537465601113340
+    second: plataformaoficial_147
+  - first:
+      213: -6539285332838062487
+    second: plataformaoficial_148
+  - first:
+      213: 6468867242096908722
+    second: plataformaoficial_149
+  - first:
+      213: 8382254831274487704
+    second: plataformaoficial_150
+  - first:
+      213: 8603319621081369118
+    second: plataformaoficial_151
+  - first:
+      213: -1627209309646985947
+    second: plataformaoficial_152
+  - first:
+      213: -660916049038417803
+    second: plataformaoficial_153
+  - first:
+      213: 8627070983613991895
+    second: plataformaoficial_154
+  - first:
+      213: 273079081446496251
+    second: plataformaoficial_155
+  - first:
+      213: 7504863135554115313
+    second: plataformaoficial_156
+  - first:
+      213: -2514032165975960563
+    second: plataformaoficial_157
+  - first:
+      213: -7585717411550220299
+    second: plataformaoficial_158
+  - first:
+      213: -4249210126314516650
+    second: plataformaoficial_159
+  - first:
+      213: 1776177125595210645
+    second: plataformaoficial_160
+  - first:
+      213: 3728646082879577227
+    second: plataformaoficial_161
+  - first:
+      213: -1220228790846933645
+    second: plataformaoficial_162
+  - first:
+      213: -5925449222331352547
+    second: plataformaoficial_163
+  - first:
+      213: -824328565992448647
+    second: plataformaoficial_164
+  - first:
+      213: -2258019064534690634
+    second: plataformaoficial_165
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 61
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plataformaoficial_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61, y: -24}
+        - {x: -61, y: 39}
+        - {x: 61, y: 39}
+        - {x: 61, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74b22ff23a2fbfc0800000000000000
+      internalID: -3477013988789537669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61, y: -23}
+        - {x: -61, y: 39}
+        - {x: 61, y: 39}
+        - {x: 61, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b323cc8f9622c30800000000000000
+      internalID: 4333142308782488466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61, y: -24}
+        - {x: -61, y: 39}
+        - {x: 61, y: 39}
+        - {x: 61, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d0f049fd3d05760800000000000000
+      internalID: 7444683141258611987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61, y: -21}
+        - {x: -61, y: 39}
+        - {x: 61, y: 39}
+        - {x: 61, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006823ebf178523f0800000000000000
+      internalID: -926185577950050816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -60, y: -22}
+        - {x: -60, y: 38}
+        - {x: 61, y: 38}
+        - {x: 61, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567cba665ce3122f0800000000000000
+      internalID: -999448624747526299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_5
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61, y: -24}
+        - {x: -61, y: 38}
+        - {x: 61, y: 38}
+        - {x: 61, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06429692b2ec305e0800000000000000
+      internalID: -1944483929320250272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_6
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61, y: -24}
+        - {x: -61, y: 38}
+        - {x: 61, y: 38}
+        - {x: 61, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1adab3c22cb8500800000000000000
+      internalID: 399626487188005281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_7
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61, y: -23}
+        - {x: -61, y: 38}
+        - {x: 61, y: 38}
+        - {x: 61, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dfa851ee6d38d40800000000000000
+      internalID: 5585544280921537823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_8
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61, y: -22}
+        - {x: -61, y: 38}
+        - {x: 61, y: 38}
+        - {x: 61, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf24f7adf5305970800000000000000
+      internalID: 8741546240286928812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_9
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61, y: -22}
+        - {x: -61, y: 38}
+        - {x: 61, y: 38}
+        - {x: 61, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae8ff30d433bc270800000000000000
+      internalID: 8271761546468626084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_10
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61, y: -25}
+        - {x: -61, y: 38}
+        - {x: 61, y: 38}
+        - {x: 61, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632a5f278e9794540800000000000000
+      internalID: 4992655701184979510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_11
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61, y: -24}
+        - {x: -61, y: 38}
+        - {x: 61, y: 38}
+        - {x: 61, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a1c3d294e866cb0800000000000000
+      internalID: -4871049502011942259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_12
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -56, y: 19}
+        - {x: -56, y: 38}
+        - {x: 61, y: 38}
+        - {x: 61, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39541b5cdcd46720800000000000000
+      internalID: 2838636504129231165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_13
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61, y: 19}
+        - {x: -61, y: 38}
+        - {x: 57, y: 38}
+        - {x: 57, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09ba9590e4e64020800000000000000
+      internalID: 2325797910817192206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_14
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -56, y: 19}
+        - {x: -56, y: 38}
+        - {x: 61, y: 38}
+        - {x: 61, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5c1e341561fbee0800000000000000
+      internalID: -1243250433843935779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_15
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 488
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61, y: 19}
+        - {x: -61, y: 38}
+        - {x: 57, y: 38}
+        - {x: 57, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba30d9a02b10431f0800000000000000
+      internalID: -1066225347586096213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61, y: -16}
+        - {x: -61, y: 44}
+        - {x: 61, y: 44}
+        - {x: 61, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f8f171f50b060a0800000000000000
+      internalID: -6890313507420532890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 366
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61, y: -18}
+        - {x: -61, y: 44}
+        - {x: 61, y: 44}
+        - {x: 61, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ada2d4709c2f6b40800000000000000
+      internalID: 5435612274206354852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 366
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -60, y: -16}
+        - {x: -60, y: 46}
+        - {x: 61, y: 46}
+        - {x: 61, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a9bf81d0826f5c0800000000000000
+      internalID: -4182111167248098677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_19
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 366
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61, y: -14}
+        - {x: -61, y: 46}
+        - {x: 61, y: 46}
+        - {x: 61, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597d5bc18a7d706e0800000000000000
+      internalID: -1871290003112994923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_20
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 366
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d67c5b6507097490800000000000000
+      internalID: -7748153964056774956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_21
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 366
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61, y: -16}
+        - {x: -61, y: 46}
+        - {x: 61, y: 46}
+        - {x: 61, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314fb991bda67d6d0800000000000000
+      internalID: -2965784340340149229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_22
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 366
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61, y: -14}
+        - {x: -61, y: 46}
+        - {x: 61, y: 46}
+        - {x: 61, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f12a435a902eca0800000000000000
+      internalID: -5989213949292044417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_23
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 366
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd8b6e7cfef0f130800000000000000
+      internalID: 3598656462675217880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c162c62db4615ee0800000000000000
+      internalID: -1274126456007269948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 244
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847566fa44b19a0e0800000000000000
+      internalID: -2258243756335147192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 244
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92035e5e2a6d34a80800000000000000
+      internalID: -8483701277905833943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_27
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 244
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc7f1c0e27f91640800000000000000
+      internalID: 5051340234216668348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_28
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 244
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0830e6f35291ab0800000000000000
+      internalID: -5036953753878298387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_29
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 244
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4426c2e8f3d7040800000000000000
+      internalID: 4646940270378763428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_30
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 244
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36197cd9931fe2bf0800000000000000
+      internalID: -347074891498417821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_31
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 244
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf80d6d1fc01a59c0800000000000000
+      internalID: -3937816442444117765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b6f50011f9b2ca0800000000000000
+      internalID: -6040559579817874653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_33
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 122
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e76d9e2c349d18b0800000000000000
+      internalID: -5179821010205186076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 122
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39c78f2eada038e0800000000000000
+      internalID: -1715680494394816198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_35
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 122
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722f92097f930f7a0800000000000000
+      internalID: -6345508139526655449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_36
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 122
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b3cad7023810030800000000000000
+      internalID: 3459190164367883111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_37
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 122
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bff5069ca2d75130800000000000000
+      internalID: 3555542069525479352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_38
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 122
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5110eec3196e78320800000000000000
+      internalID: 2560268424650293525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_39
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 122
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e92724a59451ba20800000000000000
+      internalID: 3076333022151649768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b153533bd41bdcd0800000000000000
+      internalID: -2532407433774280264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_41
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f9375301fcb3510800000000000000
+      internalID: 1530044166945611545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_42
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c6e9bce70bd4c50800000000000000
+      internalID: 6651166283324615787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_43
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2901c50934852090800000000000000
+      internalID: -8059890577665095382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_44
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfec77ff0931c4d0800000000000000
+      internalID: -3116146726424219716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_45
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbfc4841433b6c10800000000000000
+      internalID: 2047786811048917959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_46
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71d1198edc2968e0800000000000000
+      internalID: -1699778050061643393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_47
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a580073e161e41a10800000000000000
+      internalID: 1879374755064186970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_48
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c9cad9ca2ef4270800000000000000
+      internalID: 8237051474491513865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_49
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b82796a20ad32080800000000000000
+      internalID: -9213280707750188876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_50
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f1b61bf1426ac10800000000000000
+      internalID: 2064377197735124844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_51
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b345c297a3edfff0800000000000000
+      internalID: -594116068686928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformaoficial_52
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc414326908135070800000000000000
+      internalID: 8093839383896265931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
