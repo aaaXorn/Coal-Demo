@@ -134,6 +134,10 @@ public class TecelaAI : MonoBehaviour
 		{
 			health--;
 		}
+		if(collision.gameObject.tag == "BluePFire")
+		{
+			health -= 2;
+		}
 	}
 	
 	IEnumerator Activate()

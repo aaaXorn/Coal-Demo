@@ -53,7 +53,8 @@ public class PlayerControl : MonoBehaviour
 	float totalAttackTime = 1;
 	
 	[SerializeField]
-	GameObject meleeAttack, rangedAttack1R, rangedAttack1L, coalWall, firePillarR, firePillarL;
+	GameObject meleeAttack, rangedAttack1R, rangedAttack1L, coalWall, firePillarR, firePillarL, rangedAttack2L, rangedAttack2R,
+	           bluePillarR, bluePillarL;
 	
 	public bool heat = false;
 	public int flameType = 0;
@@ -110,6 +111,10 @@ public class PlayerControl : MonoBehaviour
 			{
 				RangedAttack1();
 			}
+			else if(heat == true && flameType == 1)
+			{
+				RangedAttack2();
+			}
 		}
 		
 		if(damageTaken == true)
@@ -153,9 +158,12 @@ public class PlayerControl : MonoBehaviour
 				anim.SetTrigger("Heat");
 				heat = false;
 			}
-			else if(Input.GetKeyDown(KeyCode.P) && heat == false && flameType == 0 && mayMove)
+			else if(Input.GetKeyDown(KeyCode.P) && heat == false && mayMove)
 			{
-				anim.SetInteger("HeatType", 1);
+				if(flameType == 0)
+					anim.SetInteger("HeatType", 1);
+				else
+					anim.SetInteger("HeatType", 2);
 				anim.SetTrigger("Heat");
 				heat = true;
 			}
@@ -184,7 +192,7 @@ public class PlayerControl : MonoBehaviour
 			{
 				CoalWall();
 			}
-			else if(Input.GetKeyDown(KeyCode.U) && heat == true && flameType == 0 && mayMove && pillarUse == true)
+			else if(Input.GetKeyDown(KeyCode.U) && heat == true && mayMove && pillarUse == true)
 			{
 				FirePillar();
 			}
@@ -277,6 +285,37 @@ public class PlayerControl : MonoBehaviour
 		if(collision.gameObject.tag == "+hp")
 		{
 			heal = 6;
+			health += heal;
+			healthMath = health;
+			if(health>maxHealth)
+			{
+				healthMath -= maxHealth;
+				heal -= healthMath;
+				health = maxHealth;
+			}
+			
+			for(int i=0; i<heal; i++)
+			{
+				HC.AddLives();
+			}
+			Destroy(collision.gameObject);
+		}
+		
+		if(collision.gameObject.tag == "SetBlueFire")
+		{
+			flameType = 1;
+			anim.SetInteger("HeatType", 2);
+			anim.SetTrigger("Heat");
+			heat = true;
+			Destroy(collision.gameObject);
+		}
+		
+		if(collision.gameObject.tag == "MaxHealth")
+		{
+			HC.maxHealth++;
+			maxHealth += 5;
+			
+			heal = 5;
 			health += heal;
 			healthMath = health;
 			if(health>maxHealth)
@@ -385,13 +424,33 @@ public class PlayerControl : MonoBehaviour
 		anim.SetTrigger("Pillar");
 		if(render.flipX == false)
 		{
-			Instantiate(firePillarR, transform.position + new Vector3(2.5f, -0.6f, 0), Quaternion.identity);
+			if(flameType == 0)
+				Instantiate(firePillarR, transform.position + new Vector3(2.5f, -0.6f, 0), Quaternion.identity);
+			else
+				Instantiate(bluePillarR, transform.position + new Vector3(2.5f, -0.6f, 0), Quaternion.identity);
 		}
 		else
 		{
-			Instantiate(firePillarL, transform.position + new Vector3(-2.5f, -0.6f, 0), Quaternion.identity);
+			if(flameType == 0)
+				Instantiate(firePillarL, transform.position + new Vector3(-2.5f, -0.6f, 0), Quaternion.identity);
+			else
+				Instantiate(bluePillarL, transform.position + new Vector3(-2.5f, -0.6f, 0), Quaternion.identity);
 		}
 		pillarUse = false;
+	}
+	
+	private void RangedAttack2()
+	{
+		anim.SetTrigger("Melee");
+		attacking = true;
+		if(render.flipX == false)
+		{
+			Instantiate(rangedAttack2R, transform.position + new Vector3(1, 0, 0), Quaternion.identity);
+		}
+		else
+		{
+			Instantiate(rangedAttack2L, transform.position + new Vector3(-1, 0, 0), Quaternion.identity);
+		}
 	}
 	
 	private void AttackTimer()

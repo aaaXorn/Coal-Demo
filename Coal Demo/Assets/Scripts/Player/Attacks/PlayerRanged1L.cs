@@ -10,7 +10,8 @@ public class PlayerRanged1L : MonoBehaviour
 	
 	float currentTime;
 	[SerializeField]
-	float lifeTime = 2;
+	float lifeTime = 2, bugFixTime = 1;
+	bool collided = false;
 	
 	[SerializeField]
 	float speedX = -6;
@@ -34,12 +35,20 @@ public class PlayerRanged1L : MonoBehaviour
 			Destroy(gameObject);
 		}
 		
+		if(collided == true)
+		{
+			bugFixTime -= Time.deltaTime;
+			if(bugFixTime<=0)
+				Destroy(gameObject);
+		}
+		
 		rigid.velocity = new Vector2(speedX, rigid.velocity.y);
     }
 	
 	private void OnCollisionEnter2D(Collision2D collision)
 	{
 		anim.SetTrigger("Collision");
+		collided = true;
 		currentTime = 1.5f;
 	}
 }

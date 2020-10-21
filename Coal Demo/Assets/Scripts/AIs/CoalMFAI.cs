@@ -88,6 +88,10 @@ public class CoalMFAI : MonoBehaviour
 		{
 			health--;
 		}
+		if(collision.gameObject.tag == "BluePFire")
+		{
+			health -= 2;
+		}
 	}
 	
 	private void OnCollisionStay2D(Collision2D collision)

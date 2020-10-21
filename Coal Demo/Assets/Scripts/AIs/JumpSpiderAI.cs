@@ -115,6 +115,10 @@ public class JumpSpiderAI : MonoBehaviour
 		{
 			health--;
 		}
+		if(collision.gameObject.tag == "BluePFire")
+		{
+			health -= 2;
+		}
 	}
 	
 	private void OnTriggerEnter2D(Collider2D collision)

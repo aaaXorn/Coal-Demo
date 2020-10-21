@@ -62,8 +62,10 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -812,7 +814,7 @@ ScriptsOnlyBuild:
     className: MusicSwitch2
   - hash:
       serializedVersion: 2
-      Hash: 5ed36807566418303402397b3af0c2d4
+      Hash: 69847c2dcdac1ccfcb6c2962afbcac1b
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PlayerRanged1L
@@ -848,7 +850,7 @@ ScriptsOnlyBuild:
     className: CinemachineTriggerAction
   - hash:
       serializedVersion: 2
-      Hash: 5c55e9d18e178e8b26e5640b49a114b2
+      Hash: ca09431f6c53505de36b0958599fde2c
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: HealthControl
@@ -890,7 +892,7 @@ ScriptsOnlyBuild:
     className: TMP_SpriteAnimator
   - hash:
       serializedVersion: 2
-      Hash: 5ed36807566418303402397b3af0c2d4
+      Hash: 69847c2dcdac1ccfcb6c2962afbcac1b
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PlayerRanged1R
@@ -1208,7 +1210,7 @@ ScriptsOnlyBuild:
     className: Cinemachine3rdPersonAim
   - hash:
       serializedVersion: 2
-      Hash: 7b4423bd4c9736e45741c56ebba64b61
+      Hash: 81529b5d052b7de727889c0673c75eae
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PlayerControl
@@ -1403,4 +1405,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/Scene1.unity
   - Assets/Scenes/Scene2.unity
-  playerPath: D:/trab/Tutoria/Coal Demo/Coal Demo 1.0/Coal Demo.exe
+  playerPath: D:/trab/Tutoria/Coal Demo/Coal Demo vFinal/Coal Demo.exe

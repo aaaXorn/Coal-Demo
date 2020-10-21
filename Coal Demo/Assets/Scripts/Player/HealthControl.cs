@@ -13,6 +13,8 @@ public class HealthControl : MonoBehaviour
 	Stack<Image> healthbar;
 	
 	public int damage = 0;
+	
+	public int maxHealth = 0;
     // Start is called before the first frame update
     void Start()
     {
@@ -29,6 +31,7 @@ public class HealthControl : MonoBehaviour
     {
 		anim.SetBool("Mendel", PC.mendel);
 		anim.SetBool("Heat", PC.heat);
+		anim.SetInteger("HealthUp", maxHealth);
     }
 	
 	public void RemoveLives()

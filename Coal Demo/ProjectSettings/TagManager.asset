@@ -15,6 +15,9 @@ TagManager:
   - Die
   - +hp
   - JumpFix
+  - SetBlueFire
+  - BluePFire
+  - MaxHealth
   layers:
   - Default
   - TransparentFX

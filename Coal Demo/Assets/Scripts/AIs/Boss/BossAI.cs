@@ -130,6 +130,10 @@ public class BossAI : MonoBehaviour
 		{
 			health -= 2;
 		}
+		if(collision.gameObject.tag == "BluePFire")
+		{
+			health -= 4;
+		}
 		if (collision.gameObject.tag == "Push")
 		{
 			hitByBoulder = true;

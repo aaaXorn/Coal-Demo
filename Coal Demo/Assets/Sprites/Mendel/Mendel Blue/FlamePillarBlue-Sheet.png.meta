@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: 5ce443a51e39c8d4ba4308a72e155f48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4090753813106404118
+    second: FlamePillarBlue-Sheet_0
+  - first:
+      213: 1667408378441429728
+    second: FlamePillarBlue-Sheet_1
+  - first:
+      213: 1486254761033595223
+    second: FlamePillarBlue-Sheet_2
+  - first:
+      213: -6557434403803997981
+    second: FlamePillarBlue-Sheet_3
+  - first:
+      213: 559641935807248551
+    second: FlamePillarBlue-Sheet_4
+  - first:
+      213: 7613482884329137335
+    second: FlamePillarBlue-Sheet_5
+  - first:
+      213: -5725244830693046292
+    second: FlamePillarBlue-Sheet_6
+  - first:
+      213: -3914706603784131270
+    second: FlamePillarBlue-Sheet_7
+  - first:
+      213: 7697998294238898032
+    second: FlamePillarBlue-Sheet_8
+  - first:
+      213: -433081813007069618
+    second: FlamePillarBlue-Sheet_9
+  - first:
+      213: 3486936588622048287
+    second: FlamePillarBlue-Sheet_10
+  - first:
+      213: 6225016346302643361
+    second: FlamePillarBlue-Sheet_11
+  - first:
+      213: 185246150386430192
+    second: FlamePillarBlue-Sheet_12
+  - first:
+      213: 5254895145741788693
+    second: FlamePillarBlue-Sheet_13
+  - first:
+      213: -8240476911386221500
+    second: FlamePillarBlue-Sheet_14
+  - first:
+      213: -3334699869153336030
+    second: FlamePillarBlue-Sheet_15
+  - first:
+      213: 4134265970586673415
+    second: FlamePillarBlue-Sheet_9
+  - first:
+      213: -6292261675489410411
+    second: FlamePillarBlue-Sheet_10
+  - first:
+      213: -4830256021182875339
+    second: FlamePillarBlue-Sheet_11
+  - first:
+      213: -173987830467596812
+    second: FlamePillarBlue-Sheet_12
+  - first:
+      213: -5936384972802383678
+    second: FlamePillarBlue-Sheet_13
+  - first:
+      213: -896885137383964520
+    second: FlamePillarBlue-Sheet_14
+  - first:
+      213: 4177792965158079381
+    second: FlamePillarBlue-Sheet_22
+  - first:
+      213: 9112392652160008489
+    second: FlamePillarBlue-Sheet_23
+  - first:
+      213: 3722345174577895308
+    second: FlamePillarBlue-Sheet_0
+  - first:
+      213: 8903321071105574635
+    second: FlamePillarBlue-Sheet_1
+  - first:
+      213: -8776811109279157038
+    second: FlamePillarBlue-Sheet_2
+  - first:
+      213: 1110899514134590218
+    second: FlamePillarBlue-Sheet_3
+  - first:
+      213: -6062556150045966297
+    second: FlamePillarBlue-Sheet_4
+  - first:
+      213: -2720364263511029575
+    second: FlamePillarBlue-Sheet_5
+  - first:
+      213: 1736698818599375001
+    second: FlamePillarBlue-Sheet_6
+  - first:
+      213: -3212323706118887243
+    second: FlamePillarBlue-Sheet_7
+  - first:
+      213: 3876190253217203742
+    second: FlamePillarBlue-Sheet_8
+  - first:
+      213: 7059639089363819349
+    second: FlamePillarBlue-Sheet_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlamePillarBlue-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 56
+        width: 13
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225e2921324c8b1d0800000000000000
+      internalID: -3334699869153336030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamePillarBlue-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 56
+        width: 12
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701edc7fefcdf5930800000000000000
+      internalID: 4134265970586673415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamePillarBlue-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 56
+        width: 13
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59246ae08556da8a0800000000000000
+      internalID: -6292261675489410411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamePillarBlue-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 56
+        width: 10
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539f3339dbb77fcb0800000000000000
+      internalID: -4830256021182875339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamePillarBlue-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 56
+        width: 12
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdecb17dfed59df0800000000000000
+      internalID: -173987830467596812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamePillarBlue-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 56
+        width: 11
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0a52ec159bd9da0800000000000000
+      internalID: -5936384972802383678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamePillarBlue-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 56
+        width: 10
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890c6ed28bf9d83f0800000000000000
+      internalID: -896885137383964520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamePillarBlue-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 56
+        width: 15
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87da16e63d68a330800000000000000
+      internalID: 3722345174577895308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamePillarBlue-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 56
+        width: 17
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be68f74a753fe8b70800000000000000
+      internalID: 8903321071105574635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamePillarBlue-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 56
+        width: 19
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4b6b23cc0823680800000000000000
+      internalID: -8776811109279157038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamePillarBlue-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 56
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a037529e835ba6f00800000000000000
+      internalID: 1110899514134590218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamePillarBlue-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 56
+        width: 18
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72086a56d497ddba0800000000000000
+      internalID: -6062556150045966297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamePillarBlue-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 56
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b802cd8d135f3ad0800000000000000
+      internalID: -2720364263511029575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamePillarBlue-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 56
+        width: 21
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990d474cf5ef91810800000000000000
+      internalID: 1736698818599375001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamePillarBlue-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 56
+        width: 21
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8a731eb988b63d0800000000000000
+      internalID: -3212323706118887243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamePillarBlue-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 56
+        width: 18
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16c7d49f7efac530800000000000000
+      internalID: 3876190253217203742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
