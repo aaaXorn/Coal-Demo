@@ -60,7 +60,7 @@ public class BossAI : MonoBehaviour
 			if(deathTimer<=0)
 			{
 				if(PC.mendel == false)
-					SceneManager.LoadScene("Scene2");
+					SceneManager.LoadScene("Cutscene3");
 				else
 					Destroy(gameObject);
 			}

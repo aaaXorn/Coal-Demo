@@ -9,7 +9,7 @@ public class PurpleBatAI : MonoBehaviour
 	Rigidbody2D rigid;
 	
 	[SerializeField]
-	GameObject player;
+	GameObject player, poof;
 	[SerializeField]
 	PlayerControl PC;
 	[SerializeField]
@@ -45,6 +45,7 @@ public class PurpleBatAI : MonoBehaviour
     {
         if(health<=0)
 		{
+			Instantiate(poof, transform.position, Quaternion.identity);
 			Destroy(gameObject);
 		}
     }

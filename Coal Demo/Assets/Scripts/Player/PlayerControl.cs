@@ -53,7 +53,7 @@ public class PlayerControl : MonoBehaviour
 	float totalAttackTime = 1;
 	
 	[SerializeField]
-	GameObject meleeAttack, rangedAttack1R, rangedAttack1L, coalWall, firePillarR, firePillarL, rangedAttack2L, rangedAttack2R,
+	GameObject meleeAttack, meleeAttackL, rangedAttack1R, rangedAttack1L, coalWall, firePillarR, firePillarL, rangedAttack2L, rangedAttack2R,
 	           bluePillarR, bluePillarL;
 	
 	public bool heat = false;
@@ -223,7 +223,7 @@ public class PlayerControl : MonoBehaviour
 			PoisonDamage();
 		
 		if(Input.GetKeyDown(KeyCode.Escape))
-			Application.Quit();
+			SceneManager.LoadScene("Menu");
     }
 	
 	private void FixedUpdate()
@@ -380,15 +380,17 @@ public class PlayerControl : MonoBehaviour
 	{
 		anim.SetTrigger("Melee");
 		attacking = true;
-		GameObject Attack = Instantiate(meleeAttack, transform.position, Quaternion.identity);
-		Attack.transform.parent = gameObject.transform;
 		if(render.flipX == false)
 		{
-			Attack.transform.Translate(1, 0, 0);
+			GameObject Attack = Instantiate(meleeAttack, transform.position, Quaternion.identity);
+			Attack.transform.parent = gameObject.transform;
+			Attack.transform.Translate(1, 0.2f, 0);
 		}
 		else
 		{
-			Attack.transform.Translate(-1, 0, 0);
+			GameObject Attack = Instantiate(meleeAttackL, transform.position, Quaternion.identity);
+			Attack.transform.parent = gameObject.transform;
+			Attack.transform.Translate(-1, 0.2f, 0);
 		}
 	}
 	

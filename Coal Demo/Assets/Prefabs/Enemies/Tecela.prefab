@@ -146,6 +146,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 0}
+  poof: {fileID: 3895680075467817697, guid: 927d8b57329f1aa4c8a0ca00a1e7ea5b, type: 3}
   PC: {fileID: 0}
   HC: {fileID: 0}
   swingTime: 1

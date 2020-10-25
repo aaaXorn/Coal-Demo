@@ -7,7 +7,7 @@ public class TecelaAI : MonoBehaviour
 	Animator anim;
 	
 	[SerializeField]
-	GameObject player;
+	GameObject player, poof;
 	[SerializeField]
 	PlayerControl PC;
 	[SerializeField]
@@ -109,6 +109,7 @@ public class TecelaAI : MonoBehaviour
 		
 		if(health<=0)
 		{
+			Instantiate(poof, transform.position, Quaternion.identity);
 			Destroy(gameObject);
 		}
     }

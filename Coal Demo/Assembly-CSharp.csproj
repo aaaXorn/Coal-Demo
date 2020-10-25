@@ -71,6 +71,14 @@
      <Compile Include="Assets\Scripts\AIs\PurpleBatAI.cs" />
      <Compile Include="Assets\Scripts\AIs\TecelaAI.cs" />
      <Compile Include="Assets\Scripts\BackgroundChange.cs" />
+     <Compile Include="Assets\Scripts\Cutscene1.cs" />
+     <Compile Include="Assets\Scripts\Cutscene2.cs" />
+     <Compile Include="Assets\Scripts\Cutscene3.cs" />
+     <Compile Include="Assets\Scripts\Cutscene4.cs" />
+     <Compile Include="Assets\Scripts\CutsceneMenu.cs" />
+     <Compile Include="Assets\Scripts\GameEnd.cs" />
+     <Compile Include="Assets\Scripts\GoToCutscene2.cs" />
+     <Compile Include="Assets\Scripts\Melee.cs" />
      <Compile Include="Assets\Scripts\Menu\MenuButtons.cs" />
      <Compile Include="Assets\Scripts\Music\MusicScript.cs" />
      <Compile Include="Assets\Scripts\Music\MusicSwitch1.cs" />
@@ -84,6 +92,7 @@
      <Compile Include="Assets\Scripts\Player\HealthControl.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerControl.cs" />
      <Compile Include="Assets\Scripts\Player\SetMendelTrue.cs" />
+     <Compile Include="Assets\Scripts\PoofScript.cs" />
      <Compile Include="Assets\Scripts\Scenario\Burn.cs" />
      <Compile Include="Assets\Scripts\Scenario\FallingPlat.cs" />
      <Compile Include="Assets\Scripts\Scenario\Plat.cs" />

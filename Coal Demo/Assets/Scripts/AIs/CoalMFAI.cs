@@ -9,7 +9,7 @@ public class CoalMFAI : MonoBehaviour
 	Rigidbody2D rigid;
 	
 	[SerializeField]
-	GameObject player;
+	GameObject player, poof;
 	[SerializeField]
 	PlayerControl PC;
 	[SerializeField]
@@ -44,6 +44,7 @@ public class CoalMFAI : MonoBehaviour
     {
         if(health<=0)
 		{
+			Instantiate(poof, transform.position, Quaternion.identity);
 			Destroy(gameObject);
 		}
     }
