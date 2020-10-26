@@ -1,3 +1,6 @@
+Menu:
+Q: Fullscreen.
+
 Controles:
 A: Anda para a esquerda.
 D: Anda para a direita.
